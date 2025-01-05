@@ -43,7 +43,7 @@ pip install cryptography
 ## Usage
 
 ```bash
-python SteganographyApp_final2.py
+python StealthMessenger.py
 ```
 
 **Encoding:** Select a cover image → Enter message or choose file → Configure options → Embed → Save
