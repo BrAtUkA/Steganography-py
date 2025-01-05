@@ -99,7 +99,7 @@ A 1920×1080 image at 2-bit depth provides approximately **1.5 MB** of usable st
 <p align="center">
   <sub>Semester Project - Advanced Steganography Implementation</sub>
   <br>
-  <sub>5th January 2025</sub>
+  <sub>Spring 2025</sub>
 </p>
 
 
